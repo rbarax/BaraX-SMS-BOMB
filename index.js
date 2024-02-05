@@ -25,7 +25,7 @@ console.log(omicronArt);
 const text2 = "ARCTURUS THE STAR"
 
   console.log('\x1b[94m');
-  console.log('ARCTURUS SMSBOMBER V.02 discord.gg/zara');
+  console.log('ARCTURUS SMSBOMBER V.02');
   console.log('\u001b[35m'+ text2);
   console.log('\x1b[0m'); 
 
